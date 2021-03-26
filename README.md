@@ -3,7 +3,7 @@
 
 ## I'm a Data Scientist excited to solve real world problems!
 - 🔭 I’m currently working on furthering my Python skills
-- 🌱 I am passionate about using technology to 
+- 🌱 I am passionate about solving global food issues using Data Science
 - 🥅 2021 Goals: Learn and contribute to the future of blockchain technology
 - ⚡ Fun fact: I love to cook, garden and play board games
 
